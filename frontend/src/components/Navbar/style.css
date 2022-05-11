@@ -2,7 +2,7 @@ header {
     height: 70px;
     background-color: var(--color-primary);
     display: flex;
-    align-items: center;
+    align-items: center;    
 }
 
 .dsmovie-nav-content {
@@ -24,6 +24,6 @@ header {
 }
 
 .dsmovie-contact-link {
-    margin: 0 0 0 10px;
-    font-size: 12px;
+    margin: 0 0 0 15px;
+    font-size: 14px;
 }
