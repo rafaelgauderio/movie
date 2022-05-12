@@ -10,6 +10,7 @@ import rafaeldeluca.com.movie.entities.Movie;
 import rafaeldeluca.com.movie.entities.dto.MovieDTO;
 import rafaeldeluca.com.movie.repositories.MovieRepository;
 
+// Regras de negócio ficam na camada de serviço
 //Anotacao Service registra o MovieService como componente do sistema
 @Service
 public class MovieService {
